@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahdi Aghajani, A developer from Iran🇮🇷
-- 👀 I’m interested in software engineering
+- 👀 Interested in software engineering
 - 🌱 I’m currently learning C# & WPF
 - 📫 How to reach me....
 - Mahdi.Aghagani.SRT.2831@gmail.com
