@@ -1,5 +1,5 @@
 - Hi, I’m Mahdi Aghajani, developer from Iran🇮🇷
-- Interested in software engineering and Programming
+- Interested in computer engineering and programming
 - I’m currently learning C# & SQL Server Management
 
 <!---
