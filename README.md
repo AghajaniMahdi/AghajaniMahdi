@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Mahdi Aghajani, A developer from Iran🇮🇷
-- 👀 Interested in software engineering
-- 🌱 I’m currently learning C# & WPF
-- 📫 How to reach me....
-- Mahdi.Aghagani.SRT.2831@gmail.com
+- Hi, I’m Mahdi Aghajani, developer from Iran🇮🇷
+- Interested in software engineering and Programming
+- I’m currently learning C# & SQL Server Management
 
 <!---
 AghajaniMahdi/AghajaniMahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
